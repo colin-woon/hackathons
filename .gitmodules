@@ -4,3 +4,15 @@
 [submodule "solight_ideathon_2024"]
 	path = solight_ideathon_2024
 	url = git@github.com:colin-woon/solight_ideathon_2024.git
+[submodule "godamlah_2025"]
+	path = godamlah_2025
+	url = git@github.com:jquan18/Databaes.git
+[submodule "umhackathon_2025"]
+	path = umhackathon_2025
+	url = git@github.com:colin-woon/umhackathon_2025.git
+[submodule "vhack_2025/dermaDAO_finals"]
+	path = vhack_2025/dermaDAO_finals
+	url = git@github.com:jquan18/dermaDAO-VHack25.git
+[submodule "vhack_2025/dermaDAO_prelim"]
+	path = vhack_2025/dermaDAO_prelim
+	url = git@github.com:colin-woon/dermaDAO-vhack25.git
