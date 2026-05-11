@@ -16,3 +16,12 @@
 [submodule "vhack_2025/dermaDAO_prelim"]
 	path = vhack_2025/dermaDAO_prelim
 	url = git@github.com:colin-woon/dermaDAO-vhack25.git
+[submodule "ambank_hackathon_2025"]
+	path = ambank_hackathon_2025
+	url = git@github.com:colin-woon/ambank_hackathon_2025.git
+[submodule "ust_d3code_2025"]
+	path = ust_d3code_2025
+	url = git@github.com:colin-woon/ust_d3code_2025.git
+[submodule "iota_2025"]
+	path = iota_2025
+	url = git@github.com:jquan18/IOTIX.git
